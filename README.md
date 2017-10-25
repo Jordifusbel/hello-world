@@ -1,6 +1,6 @@
 # hello-world
 This is my first *repository*
-, i'm a student trying to learn to code in order to become an **MVP**
+, i'm a student trying to learn to code in order to become an **mvp**
 
 I started to use GitHub in order to complete some assignments from my classes in [IES Francesc de Borja Moll](http://www.iesfbmoll.org/)
 
@@ -12,7 +12,7 @@ For my assignment in LLMM i had to have a repositry with all this things:
   - Code and Syntax Highlighting
   - Tables
 
-And in this table i can show with which programing languages i have experience:
+And with this table i will show with which programing languages i have experience:
 
 Languages | Experience
 ------------ | -------------
