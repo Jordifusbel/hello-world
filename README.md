@@ -12,7 +12,7 @@ For my assignment in LLMM i had to have a repositry with all this things:
   - Code and Syntax Highlighting
   - Tables
 
-And in this table i can show with which programing languages i have experience:
+And with this table i will show with which programing languages i have experience:
 
 Languages | Experience
 ------------ | -------------
