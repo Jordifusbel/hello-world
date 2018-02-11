@@ -10,6 +10,7 @@ A la hora de plantear el proyecto, decidimos que debia haber un menú de forma c
  - Una página de civilizaciones.	
  - Una página de unidades.
  - Una página de contacto.
+ 
 Una vez planteada la idea general, nos pusimos a imaginar como debian estar estrcturadas estas páginas, y hicimos dibujos de estas para poder llegar a un acuerdo común, y planteamos una serie de funciones que queriamos en la web:
 -Poder ampliar la imagen de la unidad para verla con más detalle.
 -Ocultar parte de la información para no sobrecargar la página con texto.
